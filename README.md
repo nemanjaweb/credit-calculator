@@ -1,1 +1,3 @@
 # credit-calculator
+
+Test it :)
