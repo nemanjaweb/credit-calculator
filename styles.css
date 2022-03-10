@@ -1,0 +1,11 @@
+.forn-group input {
+  cursor: pointer;
+}
+
+.input-group input {
+  font-weight: bold;
+}
+#loading,
+#results {
+  display: none;
+}
